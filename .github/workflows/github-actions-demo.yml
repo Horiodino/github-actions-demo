@@ -1,4 +1,3 @@
-name:Demo
 on:
   push:
     branches: [ main ]
